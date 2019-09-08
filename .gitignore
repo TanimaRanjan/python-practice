@@ -1,2 +1,3 @@
 venv
-file_project/venv
+.idea
+.DS_Store
