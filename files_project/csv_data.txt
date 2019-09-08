@@ -1,0 +1,4 @@
+name,age,university,degree
+Rolf,25,MIT,Comp Science
+Anne,35,Oxford,Physics
+Rick,30,Yale,English
