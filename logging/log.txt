@@ -1,0 +1,20 @@
+2019-09-09 21:35:58,620 INFO     [app.py:8]: This will not show 
+2019-09-09 21:35:58,621 WARNING  [app.py:9]: This will 
+2019-09-09 21:35:58,621 DEBUG    [app.py:10]: This is debug message 
+2019-09-09 21:35:58,621 CRITICAL [app.py:11]: This is critical error occurred  
+2019-09-09 21:38 INFO     [app.py:11]: This will not show 
+2019-09-09 21:38 WARNING  [app.py:12]: This will 
+2019-09-09 21:38 DEBUG    [app.py:13]: This is debug message 
+2019-09-09 21:38 CRITICAL [app.py:14]: This is critical error occurred  
+2019-09-09 21:38:1568079520 INFO     [app.py:11]: This will not show 
+2019-09-09 21:38:1568079520 WARNING  [app.py:12]: This will 
+2019-09-09 21:38:1568079520 DEBUG    [app.py:13]: This is debug message 
+2019-09-09 21:38:1568079520 CRITICAL [app.py:14]: This is critical error occurred  
+2019-09-09 21:38:1568079529s INFO     [app.py:11]: This will not show 
+2019-09-09 21:38:1568079529s WARNING  [app.py:12]: This will 
+2019-09-09 21:38:1568079529s DEBUG    [app.py:13]: This is debug message 
+2019-09-09 21:38:1568079529s CRITICAL [app.py:14]: This is critical error occurred  
+2019-09-09 21:39:04 INFO     [app.py:11]: This will not show 
+2019-09-09 21:39:04 WARNING  [app.py:12]: This will 
+2019-09-09 21:39:04 DEBUG    [app.py:13]: This is debug message 
+2019-09-09 21:39:04 CRITICAL [app.py:14]: This is critical error occurred  
